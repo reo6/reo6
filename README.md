@@ -1,4 +1,4 @@
-# ⭐🧑‍💻 Ramazan Emre Osmanoglu 🧑‍💻⭐
+# R. Emre O.
 
 ## Who I am?
 
