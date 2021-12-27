@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%23FF4500&size=27&center=true&vCenter=true&height=100&lines=Free+Software;GNU%2FLinux;Unreol+Freedom;Haskell;Functional+Programming...)](https://git.io/typing-svg)
+
 <h1 align="center">Hey There 👋, I'm Emre.</h1>
 <h4 align="center">🎹 Music Producer and Lover, 👨‍💻 Computer Programmer, 🐧 Free Software Enthusiast.</h3>
 
