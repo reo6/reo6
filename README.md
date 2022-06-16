@@ -11,4 +11,4 @@
 - 🇹🇷 Living in **Turkey**.
 - 📫 Reach me at: **ramazanemre@proton.me**
 - 🎹 Listen to some of my favourites: **[Some Great Electro, Chill & Lofi](https://open.spotify.com/playlist/0lxgSi4s45loX9MRbnbcVA?si=66420dd02a014aec)**
-- 👨‍💻 Python, Javascript, Haskell, Django, React, Rust, Bash, C.
+- 👨‍💻 Python, Javascript, Haskell, Django, React, Rust, Bash, C, Racket...
