@@ -16,5 +16,5 @@
 ---
 
 <div align="center">
-<i>"Not ignorance, but ignorance of ignorance, is the death of knowledge."</i>
+  <small><i>"Not ignorance, but ignorance of ignorance, is the death of knowledge."</i></small>
 </div>
