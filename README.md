@@ -10,7 +10,7 @@
 - λ I love **functional programming**.
 - 🇹🇷 Living in **Turkey**.
 - 📫 Reach me at: **ramazanemre@proton.me**
-- 🎹 Listen to some of my favourites: **[Some Great Electro, Chill & Lofi](https://open.spotify.com/playlist/0lxgSi4s45loX9MRbnbcVA?si=66420dd02a014aec)**
+- 🎹 My Audius account is [here](https://audius.co/emreasaurus). I'm currently listening funk and working on jazz theory.
 - 👨‍💻 Python, Javascript, Haskell, Django, React, Rust, Bash, C, Racket...
 
 ---
