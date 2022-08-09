@@ -11,7 +11,7 @@
 - 🇹🇷 Living in **Turkey**.
 - 📫 Reach me at: **ramazanemre@proton.me**
 - 🎹 My Audius account is [here](https://audius.co/emreasaurus). I'm currently listening funk and working on jazz theory.
-- 👨‍💻 Python, Javascript, Haskell, Django, React, Rust, Bash, C, Racket...
+- 👨‍💻 Python, Haskell, Django, React, Rust, Bash, C, Racket...
 
 ---
 
