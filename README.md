@@ -5,10 +5,9 @@
 </div>
 
 <h1 align="center">Hey There 👋, I'm Emre.</h1>
-<h4 align="center">🎹 Music Producer and Lover, 👨‍💻 Computer Programmer, 🐧 Free Software Enthusiast.</h3>
+<h4 align="center">🎹 Music Producer and Lover, 👨‍💻 Computer Programmer, 🐧 Free Software and Linux Enthusiast.</h3>
 
 - λ I love **functional programming**.
-- 🇹🇷 Living in **Turkey**.
 - 📫 Reach me at: **ramazanemre@proton.me**
 - 🎹 My Audius account is [here](https://audius.co/emreasaurus). I'm currently listening funk and working on jazz theory.
 
