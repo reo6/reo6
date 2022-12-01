@@ -1,14 +1,12 @@
 
-
 <h1 align="center">Hey There 👋, I'm Emre.</h1>
 <h4 align="center">🎹 Music Producer and Lover, 👨‍💻 Computer Programmer, 🐧 Free Software and Linux Enthusiast.</h3>
 
-- λ I love **functional programming**.
-- 📫 Reach me at: **ramazanemre@proton.me**
-- 🎹 My Audius account is [here](https://audius.co/emreasaurus). I'm currently listening funk and working on jazz theory.
+<div align="center">I'm a computer programmer, an amateur live performer and linux nerd. Always looking for a challenge.</div>
 
----
+<br>
 
-<div align="center">
-  <small><i>"Not ignorance, but ignorance of ignorance, is the death of knowledge."</i></small>
-</div>
+
+<h3 align="center">Current Goal</h3>
+<div align="center">Building a live performance tool (basically a clone of rc505 with plugin host and preset system, I can't afford it so why not)
+
