@@ -1,4 +1,4 @@
-_**Disclaimer**: I don't use GitHub anymore. All my repositories will stay as mirror here and are all read-only. Check out my [Codeberg](https://codeberg.org/reo42)._
+_**Disclaimer**: I don't use GitHub anymore. All my repositories will stay as mirror here and are all read-only. Check out my [Codeberg](https://codeberg.org/reo42). (Some of the old projects will stay here for archiving purposes.)_
 
 <h1>reo at a glance.</h1>
 
