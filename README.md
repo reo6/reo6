@@ -16,7 +16,7 @@ _There's always a story behind my every little project._
 
 - [_steering wheel_](https://github.com/ramazanemreosmanoglu/steering-wheel): Another maker project. Creating virtual steering wheels, breaking 1$ cheap rotary encoder and a mouse, having fun with my father.
 
-- [_mechanica_](https://github.com/ramazanemreosmanoglu/mechanica): I have a laptop but I want mechanical keyboard noise and I don't want to plug that old office keyboard. Let's go. (just worked on it for 3 days and threw it away.)
+- [_mechanica_](https://github.com/ramazanemreosmanoglu/mechanica): I have a laptop but I want mechanical keyboard noise and I don't want that old office keyboard. Let's go. (just worked on it for 3 days and threw it away.)
 
 [_Go to my other repositories_](https://github.com/ramazanemreosmanoglu?tab=repositories)
 
