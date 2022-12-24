@@ -6,7 +6,7 @@ A computer programmer, an amateur live performer and a passionate linux nerd.
 
 _There's always a story behind my every little project._
 
-- [_dotfiles_](https://github.com/ramazanemreosmanoglu/dotfiles): It's time to manage everything so I won't need to set everything up again when I distrohop.
+- [_dotfiles_](https://github.com/ramazanemreosmanoglu/dotfiles): It's time to rearrange everything so I won't need to set everything up again when I distrohop.
 
 - [_rdmachine_](https://github.com/ramazanemreosmanoglu/rdmachine): _Still working on this._ An experimental drum machine project.
 
