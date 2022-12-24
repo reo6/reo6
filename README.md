@@ -1,12 +1,26 @@
+<h1>reo at a glance.</h1>
 
-<h1 align="center">Hey There 👋, I'm Emre.</h1>
-<h4 align="center">🎹 Music Producer and Lover, 👨‍💻 Computer Programmer, 🐧 Free Software and Linux Enthusiast.</h3>
+A computer programmer, an amateur live performer and a passionate linux nerd.
 
-<div align="center">I'm a computer programmer, an amateur live performer and linux nerd. Always looking for a challenge.</div>
+<h2>projects</h2>
 
-<br>
+_There's always a story behind my every little project._
 
+- [_dotfiles_](https://github.com/ramazanemreosmanoglu/dotfiles): It's time to manage everything so I won't need to set everything up again when I distrohop.
 
-<h3 align="center">Current Goal</h3>
-<div align="center">Building a live performance tool (basically a clone of rc505 with plugin host and preset system, I can't afford it so why not)
+- [_rdmachine_](https://github.com/ramazanemreosmanoglu/rdmachine): _Still working on this._ An experimental drum machine project.
 
+- [_haskellutions_](https://github.com/ramazanemreosmanoglu/haskellutions): Beginner level Haskell solutions. Couldn't find something real to do with haskell but I love it.
+
+- [_drumkit_](https://github.com/ramazanemreosmanoglu/drumkit): Just a toy thing, I don't have much to tell about this, I don't even know why does this exist.
+
+- [_steering wheel_](https://github.com/ramazanemreosmanoglu/steering-wheel): Another maker project. Creating virtual steering wheels, breaking 1$ cheap rotary encoder and a mouse, having fun with my father.
+
+- [_mechanica_](https://github.com/ramazanemreosmanoglu/mechanica): I have a laptop but I want mechanical keyboard noise and I don't want to plug that old office keyboard. Let's go. (just worked on it for 3 days and threw it away.)
+
+[_Go to my other repositories_](https://github.com/ramazanemreosmanoglu?tab=repositories)
+
+<h2>goals</h2>
+
+- building an rc505 clone for my live performances.
+- creating a drum machine plugin with sample drag and drop features.
