@@ -22,3 +22,9 @@ _There's always a story behind my every little project._
 
 - building an rc505 clone for my live performances.
 - creating a drum machine plugin with sample drag and drop features.
+
+<h2>links</h2>
+
+- [Soundcloud](https://rpaste.pythonanywhere.com/p/474e76)
+- [Twitter](https://twitter.com/Emreasaurus)
+- Discord: reo#8409
