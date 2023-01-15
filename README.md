@@ -25,6 +25,6 @@ _There's always a story behind my every little project._
 
 <h2>links</h2>
 
-- [Soundcloud](https://rpaste.pythonanywhere.com/p/474e76)
+- [Soundcloud](https://soundcloud.com/reo-522799201)
 - [Twitter](https://twitter.com/Emreasaurus)
 - Discord: reo#8409
