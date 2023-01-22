@@ -6,6 +6,8 @@ A computer programmer, an amateur live performer and a passionate linux nerd.
 
 _There's always a story behind my every little project._
 
+- [_foss505_](https://github.com/ramazanemreosmanoglu/foss505): That loop station I've been talking about.
+
 - [_dotfiles_](https://github.com/ramazanemreosmanoglu/dotfiles): It's time to rearrange everything so I won't need to set everything up again when I distrohop.
 
 - [_rdmachine_](https://github.com/ramazanemreosmanoglu/rdmachine): _Still working on this._ An experimental drum machine project.
@@ -20,7 +22,7 @@ _There's always a story behind my every little project._
 
 <h2>goals</h2>
 
-- building an rc505 clone for my live performances.
+- ~~building an rc505 clone for my live performances.~~
 - creating a drum machine plugin with sample drag and drop features.
 
 <h2>links</h2>
