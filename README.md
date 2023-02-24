@@ -4,8 +4,6 @@ A computer programmer, an amateur live performer and a passionate linux nerd.
 
 <h2>projects</h2>
 
-_There's always a story behind my every little project._
-
 - [_foss505_](https://github.com/ramazanemreosmanoglu/foss505): That loop station I've been talking about.
 
 - [_dotfiles_](https://github.com/ramazanemreosmanoglu/dotfiles): It's time to rearrange everything so I won't need to set everything up again when I distrohop.
