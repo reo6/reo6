@@ -20,7 +20,7 @@ A computer programmer, an amateur live performer and a passionate linux nerd.
 
 <h2>publications</h2>
 
-- [_Functional Programming, the Hard Way](https://github.com/reo6/functional-programming-the-hard-way)
+- [_Functional Programming, the Hard Way_](https://github.com/reo6/functional-programming-the-hard-way)
 
 <h2>goals</h2>
 
