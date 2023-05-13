@@ -18,6 +18,10 @@ A computer programmer, an amateur live performer and a passionate linux nerd.
 
 [_Go to my other repositories_](https://github.com/ramazanemreosmanoglu?tab=repositories)
 
+<h2>publications</h2>
+
+- [_Functional Programming, the Hard Way](https://github.com/reo6/functional-programming-the-hard-way)
+
 <h2>goals</h2>
 
 - ~~building an rc505 clone for my live performances.~~
