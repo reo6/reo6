@@ -22,10 +22,6 @@ A computer programmer, an amateur live performer and a passionate linux nerd.
 
 - [_Functional Programming, the Hard Way_](https://github.com/reo6/functional-programming-the-hard-way)
 
-<h2>goals</h2>
-
-- ~~building an rc505 clone for my live performances.~~
-- creating a drum machine plugin with sample drag and drop features.
 
 <h2>links</h2>
 
