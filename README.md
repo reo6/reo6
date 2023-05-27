@@ -1,30 +1,36 @@
-<h1>reo at a glance.</h1>
+<div align="center">
+  <h2>reo at a glance.</h2>
+  Hey, I'm @reo. Simply I create computer programs
+  
+  and make music. You can find my projects here.
+  
+  Feel free to reach out for anything I can help.
+</div>
 
-A computer programmer, an amateur live performer and a passionate linux nerd.
+<h3>projects</h3>
 
-<h2>projects</h2>
+- [_foss505_](https://github.com/reo6/foss505):  A fully digital loop station built especially for live performing. A Boss rc505 alternative.
 
-- [_foss505_](https://github.com/ramazanemreosmanoglu/foss505): That loop station I've been talking about.
+- [_dotfiles_](https://github.com/reo6/dotfiles)
 
-- [_dotfiles_](https://github.com/ramazanemreosmanoglu/dotfiles): It's time to rearrange everything so I won't need to set everything up again when I distrohop.
+- [_rdmachine_](https://github.com/reo6/rdmachine): _Still working on this._ An experimental drum machine project.
 
-- [_rdmachine_](https://github.com/ramazanemreosmanoglu/rdmachine): _Still working on this._ An experimental drum machine project.
+- [_haskellutions_](https://github.com/reo6/haskellutions): Beginner level Haskell solutions. Couldn't find something real to do with haskell but I love it.
 
-- [_haskellutions_](https://github.com/ramazanemreosmanoglu/haskellutions): Beginner level Haskell solutions. Couldn't find something real to do with haskell but I love it.
+- [_steering wheel_](https://github.com/reo6/steering-wheel): Another maker project. A gaming steering wheel code.
 
-- [_drumkit_](https://github.com/ramazanemreosmanoglu/drumkit): Just a toy thing, I don't have much to tell about this, I don't even know why does this exist.
+- [_rpaste_](https://github.com/reo6/rpaste): Simple pastebin application written in Flask.
 
-- [_steering wheel_](https://github.com/ramazanemreosmanoglu/steering-wheel): Another maker project. Creating virtual steering wheels, breaking 1$ cheap rotary encoder and a mouse, having fun with my father.
+[_other repositories_](https://github.com/reo6?tab=repositories)
 
-[_Go to my other repositories_](https://github.com/ramazanemreosmanoglu?tab=repositories)
-
-<h2>publications</h2>
+<h3>publications</h3>
 
 - [_Functional Programming, the Hard Way_](https://reo6.github.io/functional-programming-the-hard-way)
 
 
-<h2>links</h2>
+<h3>links</h3>
 
 - [Soundcloud](https://soundcloud.com/reo-522799201)
 - [Twitter](https://twitter.com/Emreasaurus)
 - Discord: reo#8409
+- Telegram: @reo006
