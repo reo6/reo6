@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>reo at a glance.</h2>
+  <h1>reo at a glance.</h1>
   Hey, I'm @reo. Simply I create computer programs
   
   and make music. You can find my projects here.
