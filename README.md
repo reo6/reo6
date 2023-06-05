@@ -25,7 +25,7 @@
 
 <h3>publications</h3>
 
-- [_Functional Programming, the Hard Way_]((https://github.com/reo6/functional-programming-the-hard-way)
+- [_Functional Programming, the Hard Way_](https://github.com/reo6/functional-programming-the-hard-way)
 
 
 <h3>links</h3>
