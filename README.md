@@ -1,6 +1,7 @@
-![](https://github.com/reo6/reo6/blob/master/title.png)
+
 
 <div align="center">
+  <h1>reo at a glance.</h1>
   Hey, I'm @reo. Simply I create computer programs
   
   and make music. You can find my projects here.
