@@ -13,9 +13,11 @@
 
 - [_foss505_](https://github.com/reo6/foss505):  A fully digital loop station built especially for live performing. A Boss rc505 alternative.
 
-- [_dotfiles_](https://github.com/reo6/dotfiles)
+- [_dotfiles_](https://github.com/reo6/dotfiles):  Configuration files and scripts of my workspace.
 
-- [_rdmachine_](https://github.com/reo6/rdmachine): _Still working on this._ An experimental drum machine project.
+- [_CubeBase_](https://github.com/reo6/CubeBase):  A simple all-in-one speed-cubing application.
+
+- [_AmbientEase_](https://github.com/reo6/AmbientEase):  A simple and minimalist ambient noise generator for your room.
 
 - [_haskellutions_](https://github.com/reo6/haskellutions): Beginner level Haskell solutions. Couldn't find something real to do with haskell but I love it.
 
