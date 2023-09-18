@@ -38,3 +38,9 @@
 - [Twitter](https://twitter.com/Emreasaurus)
 - Discord: reo006
 - Telegram: @reo006
+
+<details>
+  <summary></summary>
+  
+  [![](https://visitcount.itsvg.in/api?id=reo6&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+</details>
