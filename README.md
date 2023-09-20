@@ -5,7 +5,7 @@
   
   and make music. You can find my projects here.
   
-  Feel free to reach out for anything I can help.
+  Feel free to reach out for anything.
 </div>
 
 ![](https://github.com/reo6/reo6/blob/master/projects.png)
