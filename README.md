@@ -1,6 +1,5 @@
-![](https://github.com/reo6/reo6/blob/master/title.png)
-
 <div align="center">
+  <h1>reo at a glance.</h1>
   Hey, I'm @reo. Simply I create computer programs
   
   and make music. You can find my projects here.
@@ -8,7 +7,7 @@
   Feel free to reach out for anything.
 </div>
 
-![](https://github.com/reo6/reo6/blob/master/projects.png)
+## Projects
 
 - [_foss505_](https://github.com/reo6/foss505):  A fully digital loop station built especially for live performing. A Boss rc505 alternative.
 
@@ -26,12 +25,11 @@
 
 [_other repositories_](https://github.com/reo6?tab=repositories)
 
-![](https://github.com/reo6/reo6/blob/master/pubs.png)
+## Publications
 
 - [_Functional Programming, the Hard Way_](https://github.com/reo6/functional-programming-the-hard-way)
 
-
-![](https://github.com/reo6/reo6/blob/master/links.png)
+## Links
 
 - [Soundcloud](https://soundcloud.com/reo-522799201)
 - [Twitter](https://twitter.com/Emreasaurus)
