@@ -13,6 +13,7 @@
 
 - [Soundcloud](https://soundcloud.com/reo-522799201)
 - [Twitter](https://twitter.com/Emreasaurus)
+- [Gists](https://gist.github.com/reo6)
 - Discord: reo006
 - Telegram: @reo006
 
