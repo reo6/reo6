@@ -2,7 +2,7 @@
   
   Feel free to reach out for anything.
 
-  [personal website (reoco.de)](https://www.reoco.de/)
+  [personal website (reoco.de)](https://reoco.de/)
 
 
 ## Articles
