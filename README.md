@@ -1,7 +1,3 @@
-  Hey, I'm @reo. Simply I create computer programs and make music. You can find my projects here.
-  
-  Feel free to reach out for anything.
-
   [personal website (reoco.de)](https://reoco.de/)
 
 
